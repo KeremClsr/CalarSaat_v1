@@ -1,0 +1,38 @@
+p {
+    color: white;
+    size: 15px;
+}
+
+.gri{
+    color: gray;
+}
+
+h2{
+    color:white;
+}
+
+td{
+    text-align: center;
+}
+
+button{
+    background-color: #06050c;
+    color:white;
+}
+
+div{
+    background-color: white;
+}
+
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+
+.btn:focus{
+    background-color: gray;
+    color: white;
+}
+
+
+  
